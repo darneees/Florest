@@ -1,5 +1,6 @@
 
-![ IMAGEM DE APRESENTAÇÃO ](https://user-images.githubusercontent.com/79709843/185000886-d8bca576-9c6b-4391-8070-ada7104daf6d.jpg)
+![ IMAGEM ILUSTRATIVA ](https://user-images.githubusercontent.com/79709843/190478880-63b59245-33d6-48b4-a9f4-037a3cc6b8d5.png)
+
 
 <h1 align="center">
   FLOREST :deciduous_tree:
@@ -9,9 +10,9 @@
   :pencil: Descrição
 </h2>
 
-<p align="center">
-  
-  Este é o meu primeiro projeto público de uma lading page sobre FLORESTA. um layout particurlarmente comum, mas com uma ideia bastante direta, que consiste em falar sobre as caracteristicas, detalhes, tamanho e etc..   Ainda esta em fase de desenvolvimento, pois a cada momento venho adicionando coisas novas e assim fazendo atualizações.
+<p>
+
+  Um template simples de uma landing page sobre floresta.
   
 </p>
 
@@ -19,8 +20,24 @@
 - ``HTML5``
 - ``CSS3``
 
+## Cores Utilizadas
+- ``#121212`` - texto
+- ``#`` -
+- ``#`` -
+- ``#`` -
+
+## Imagem / Icones
+
+https://unsplash.com/
+
+
+
+## Deployed
+
+
+
 <h3 align="center">
 
-  :construction: PROJETO EM DESENVOLVIMENTO :construction:
+  :construction: PROJETO FINALIZADO :construction:
   
 </h3>
