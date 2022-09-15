@@ -21,16 +21,16 @@
 - ``CSS3``
 
 ## Cores Utilizadas
-- ``#121212`` - texto
-- ``#`` -
-- ``#`` -
-- ``#`` -
+- ``#121212`` - texto 
+- ``#344e41`` - logo , titulo e botão ( MENU )
+- ``#f9f9f9`` - botão ( READ MORE )
+- ``rgba( 249, 249, 249, 0.35 )`` - ``backdrop-filter: blur( 1px )`` - ``-webkit-backdrop-filter: blur( 1px )`` - background
 
 ## Imagem
 
 https://unsplash.com/
 
-
+( o icone na sessão vapode ser de um site ao seu criterio, pois o mesmo eu não consegui encontrar )
 
 ## Deployed
 
