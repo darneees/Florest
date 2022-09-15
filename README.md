@@ -26,7 +26,7 @@
 - ``#`` -
 - ``#`` -
 
-## Imagem / Icones
+## Imagem
 
 https://unsplash.com/
 
@@ -34,7 +34,7 @@ https://unsplash.com/
 
 ## Deployed
 
-
+https://darneees.github.io/Florest/
 
 <h3 align="center">
 
