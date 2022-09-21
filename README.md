@@ -6,15 +6,6 @@
   FLOREST :deciduous_tree:
 </h1>
 
-<h2>
-  :pencil: Descrição
-</h2>
-
-<p>
-
-  Um template simples de uma landing page sobre floresta.
-  
-</p>
 
 ## ✔️ Tecnologias utilizadas  ✔️
 - ``HTML5``
